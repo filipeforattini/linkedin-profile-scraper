@@ -17,6 +17,12 @@ This scraper will extract publicly available data:
 
 All dates are formatted to a generic format.
 
+
+
+
+
+
+
 ## Getting started
 In order to scrape LinkedIn profiles, you need to make sure the scraper is logged-in into LinkedIn. For that you need to find your account's session cookie. I suggest creating a new account on LinkedIn and enable all the privacy options so people don't see you visiting their profiles when using the scraper.
 
